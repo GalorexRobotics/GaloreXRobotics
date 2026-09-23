@@ -448,7 +448,7 @@ a.member:hover { background: var(--glass-strong); color: var(--ink); transform: 
 .ghost-footer {
   font-family: var(--display);
   font-weight: 700;
-  font-size: clamp(110px, 19vw, 270px);
+  font-size: clamp(30px, 9vw, 150px);
   letter-spacing: -0.03em;
   line-height: 1.05;
   padding-bottom: 0.08em;
