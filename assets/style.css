@@ -249,7 +249,7 @@ figcaption {
   display: grid;
   grid-template-columns: 6fr 6fr;
   gap: 56px;
-  align-items: start;
+  align-items: center;
 }
 
 .split-text p { color: var(--ink-2); margin-bottom: 20px; }
