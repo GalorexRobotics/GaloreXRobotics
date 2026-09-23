@@ -1,0 +1,18 @@
+# private pitch material — never publish
+assets/slides_demo_pitch/
+
+# unused source media (kept locally for future edits, not deployed)
+assets/media/Nimble_vis_from_aura.mp4
+assets/media/objverse.gif
+assets/media/benchmark_for_VLA.gif
+assets/media/manipulation1.mp4
+assets/media/Manipulation2.mp4
+assets/media/objeverse_assets.png
+assets/media/objeverse_sim.png
+assets/media/objeverse_pointcloud.jpg
+assets/media/aura_sync.jpg
+assets/media/transfer_pipeline.jpg
+assets/media/fedetection.png
+assets/media/guido-hardware.jpg
+
+.DS_Store
