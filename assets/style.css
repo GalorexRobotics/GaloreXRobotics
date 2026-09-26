@@ -172,6 +172,14 @@ figcaption {
   margin-bottom: 26px;
 }
 
+.hero h1 .h1-brand {
+  display: block;
+  font-size: 0.55em;
+  line-height: 1.1;
+  color: var(--accent);
+  margin-bottom: 14px;
+}
+
 .hero-sub { color: var(--ink-2); margin-bottom: 24px; }
 
 /* glass media card */
